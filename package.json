@@ -1,0 +1,25 @@
+{
+  "name": "Carousel",
+  "version": "1.0.0",
+  "description": "A web site for users who want to look at multiple images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakethomas/Carousel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakethomas/Carousel/issues"
+  },
+  "homepage": "https://github.com/blakethomas/Carousel#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "path": "^0.12.7"
+  }
+}
